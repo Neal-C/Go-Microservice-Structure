@@ -1,4 +1,4 @@
-# Go Context Package
+# Go Microservice Structure
 
 ## I AM NOT THE AUTHOR OF THIS CODE; 
 ### code may have been copied as such or received my personal modifications.
